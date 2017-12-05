@@ -4,3 +4,4 @@
 ### Q3: How to do read and write separate in database cluster? Please build a mysql cluster.   
 ### Q4: What is the different with https and http and how the https work?   
 ### Q5: Asynchronous IO in linux and python framework.
+### [Q6: Continuous learning content.](https://github.com/hatcherfang/FAQ/blob/master/Q6.md)  
